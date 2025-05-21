@@ -2,7 +2,6 @@
   "crons": [
     {
       "path": "/api/send-email",
-      "_comment" : "Send email every day at 9 AM",
       "schedule": "0 9 * * *" 
     }
   ]
